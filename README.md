@@ -8,8 +8,13 @@ Component used in the Mask are:
 5: jumper wire
 
 
+
+
 Please watch the demonstration video here: https://youtu.be/-NpR7dtDIuM 
+
 Please watch the explanation video (in Hindi) here: https://youtu.be/K-32fggsPow 
+
+
 
 
 This Project is made with lots of effort and love by Suryansh Pratap Singh & Aman Mishra.
