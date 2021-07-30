@@ -1,11 +1,17 @@
 # Oxygen-Mask
 
 Component used in the Mask are:
+
 1:aurdino uno
+
 2: active buzzer
+
 3: mq -135 sensor
+
 4: breadboard
+
 5: jumper wire
+
 
 
 
